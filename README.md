@@ -18,7 +18,7 @@ npm run dev
 
 The project was developed with Vue, was scaffolded over Vite. Tailwind CSS was used for the styling.
 
-### About the Application
+##### About the Application
 
 <img width="749" alt="Forex-Exchange" src="https://github.com/sbrkaksu/Forex-Exchange/assets/127765582/26fb90e0-b095-4f0f-a013-1140997ff8f9">
 
